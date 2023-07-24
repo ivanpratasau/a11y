@@ -4,8 +4,8 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content', '@nuxtjs/tailwindcss'
   ],
-  router: {
-    base: '/a11y/'
+  app: {
+    baseURL: '/a11y/'
   },
   content: {
     highlight: {
