@@ -4,6 +4,9 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content', '@nuxtjs/tailwindcss'
   ],
+  router: {
+    base: '/a11y/'
+  },
   content: {
     highlight: {
       // OR
