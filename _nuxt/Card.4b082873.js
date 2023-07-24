@@ -1,0 +1,1 @@
+import{_ as e,o,c as a,r as s}from"./entry.0c436cc6.js";const t={},c={class:"p-6 border bg-white dark:bg-black dark:border-gray-700 rounded"};function d(r,n){return o(),a("div",c,[s(r.$slots,"default")])}const l=e(t,[["render",d]]);export{l as default};
